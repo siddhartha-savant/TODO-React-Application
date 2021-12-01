@@ -1,0 +1,19 @@
+nav {
+    height: 40px;
+    width: 100%;
+    //position: fixed;
+    top: 0;
+    padding-top: 15px;
+    background-color: #2b69dd;
+    border-radius: 5px;
+
+    .title{
+        margin: auto;
+        display: inline;
+    }
+
+    .developer{
+        float: right;
+        margin-right: 20px;
+    }
+}
